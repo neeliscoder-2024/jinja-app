@@ -1,5 +1,11 @@
-Jinja is advanced level tags by using high level operation we can operate our data from database.
-Jinja can actually called as template tags, expression tags.
-Jinja tags are two types:
-i) Jinja printing tags: In jinja printing tags we basically taking our data from backend to frontend for displaying the data.
-ii) Jinja operation tags: In jinja operation tags we are taking the data from database and performing some operation to fetch those data.
+# Jinja: Advanced Level Tags
+
+Jinja, often referred to as template tags or expression tags, provides a powerful way to operate on data from a database. There are two main types of Jinja tags:
+
+# 1. Jinja Printing Tags
+
+Jinja printing tags are primarily used for taking data from the backend to the frontend for displaying the data.
+
+# 2. Jinja Operation Tags
+
+Jinja operation tags are used to take data from the database and perform operations to fetch that data.
